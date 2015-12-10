@@ -5,5 +5,6 @@ If you are just looking for a pseudo-Boolean constraint solver, consider [Minisa
 
 Install with
 
-$make
-$make install
+make
+
+make install
